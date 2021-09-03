@@ -1,4 +1,4 @@
-import { MongoClient, Colours } from "./deps.ts";
+import { MongoClient } from "./deps.ts";
 
 export interface WorkersHashContent {
   websocketID: string;
