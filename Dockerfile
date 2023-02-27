@@ -1,4 +1,4 @@
-FROM denoland/deno:distroless-1.18.1@sha256:175f2c9856acef368aedcffbeb83af85903639ca336b81f8a41c789f1da2863b
+FROM denoland/deno:distroless-1.31.1@sha256:46438d3d82ed777f9e63fe4499c035766d1e5b1c5c4d2bbd0a92cc782e93007d
 ENV DENO_ENV=production
 
 WORKDIR /app
